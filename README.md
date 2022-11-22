@@ -1,6 +1,6 @@
 # Project Name
 
-Simple Hello messages rails API
+Hello Rails Backend
 
 ## Frontend
 
